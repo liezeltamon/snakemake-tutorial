@@ -1,0 +1,8 @@
+
+# Ignore these directories inlcuding all files within
+calls/
+data/
+mapped_reads/
+plots/
+scripts/
+sorted_reads/
